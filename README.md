@@ -10,3 +10,5 @@
 - Added the div id to the class of search engine optimisation as the link is not working properly
 ---
    >Below are the images of the original codes and the the changes that I've made in the code.
+
+   - screenshot of original code (./assets/images.homeworkcode1.png)
